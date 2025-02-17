@@ -1,0 +1,747 @@
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\appsettings.Development.json
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\appsettings.json
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Bookworm.exe
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Bookworm.deps.json
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Bookworm.runtimeconfig.json
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Bookworm.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Bookworm.pdb
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\obj\Debug\net8.0\Bookworm.csproj.AssemblyReference.cache
+D:\shailesh pro\dotnet bookworm\Bookworm\obj\Debug\net8.0\Bookworm.GeneratedMSBuildEditorConfig.editorconfig
+D:\shailesh pro\dotnet bookworm\Bookworm\obj\Debug\net8.0\Bookworm.AssemblyInfoInputs.cache
+D:\shailesh pro\dotnet bookworm\Bookworm\obj\Debug\net8.0\Bookworm.AssemblyInfo.cs
+D:\shailesh pro\dotnet bookworm\Bookworm\obj\Debug\net8.0\Bookworm.csproj.CoreCompileInputs.cache
+D:\shailesh pro\dotnet bookworm\Bookworm\obj\Debug\net8.0\Bookworm.MvcApplicationPartsAssemblyInfo.cs
+D:\shailesh pro\dotnet bookworm\Bookworm\obj\Debug\net8.0\Bookworm.MvcApplicationPartsAssemblyInfo.cache
+D:\shailesh pro\dotnet bookworm\Bookworm\obj\Debug\net8.0\staticwebassets.build.json
+D:\shailesh pro\dotnet bookworm\Bookworm\obj\Debug\net8.0\staticwebassets.development.json
+D:\shailesh pro\dotnet bookworm\Bookworm\obj\Debug\net8.0\staticwebassets\msbuild.Bookworm.Microsoft.AspNetCore.StaticWebAssets.props
+D:\shailesh pro\dotnet bookworm\Bookworm\obj\Debug\net8.0\staticwebassets\msbuild.build.Bookworm.props
+D:\shailesh pro\dotnet bookworm\Bookworm\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Bookworm.props
+D:\shailesh pro\dotnet bookworm\Bookworm\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Bookworm.props
+D:\shailesh pro\dotnet bookworm\Bookworm\obj\Debug\net8.0\staticwebassets.pack.json
+D:\shailesh pro\dotnet bookworm\Bookworm\obj\Debug\net8.0\scopedcss\bundle\Bookworm.styles.css
+D:\shailesh pro\dotnet bookworm\Bookworm\obj\Debug\net8.0\Bookworm.csproj.Up2Date
+D:\shailesh pro\dotnet bookworm\Bookworm\obj\Debug\net8.0\Bookworm.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\obj\Debug\net8.0\refint\Bookworm.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\obj\Debug\net8.0\Bookworm.pdb
+D:\shailesh pro\dotnet bookworm\Bookworm\obj\Debug\net8.0\Bookworm.genruntimeconfig.cache
+D:\shailesh pro\dotnet bookworm\Bookworm\obj\Debug\net8.0\ref\Bookworm.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Humanizer.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\MySqlConnector.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\System.CodeDom.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.Build.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\NuGet.Common.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\shailesh pro\dotnet bookworm\Bookworm\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\appsettings.Development.json
+D:\dotnet\Bookworm\bin\Debug\net8.0\appsettings.json
+D:\dotnet\Bookworm\bin\Debug\net8.0\Bookworm.exe
+D:\dotnet\Bookworm\bin\Debug\net8.0\Bookworm.deps.json
+D:\dotnet\Bookworm\bin\Debug\net8.0\Bookworm.runtimeconfig.json
+D:\dotnet\Bookworm\bin\Debug\net8.0\Bookworm.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Bookworm.pdb
+D:\dotnet\Bookworm\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Humanizer.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.Build.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\MySqlConnector.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\NuGet.Common.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\System.CodeDom.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotnet\Bookworm\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\dotnet\Bookworm\obj\Debug\net8.0\Bookworm.csproj.AssemblyReference.cache
+D:\dotnet\Bookworm\obj\Debug\net8.0\Bookworm.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Bookworm\obj\Debug\net8.0\Bookworm.AssemblyInfoInputs.cache
+D:\dotnet\Bookworm\obj\Debug\net8.0\Bookworm.AssemblyInfo.cs
+D:\dotnet\Bookworm\obj\Debug\net8.0\Bookworm.csproj.CoreCompileInputs.cache
+D:\dotnet\Bookworm\obj\Debug\net8.0\Bookworm.MvcApplicationPartsAssemblyInfo.cs
+D:\dotnet\Bookworm\obj\Debug\net8.0\Bookworm.MvcApplicationPartsAssemblyInfo.cache
+D:\dotnet\Bookworm\obj\Debug\net8.0\staticwebassets.build.json
+D:\dotnet\Bookworm\obj\Debug\net8.0\staticwebassets.development.json
+D:\dotnet\Bookworm\obj\Debug\net8.0\staticwebassets\msbuild.Bookworm.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dotnet\Bookworm\obj\Debug\net8.0\staticwebassets\msbuild.build.Bookworm.props
+D:\dotnet\Bookworm\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Bookworm.props
+D:\dotnet\Bookworm\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Bookworm.props
+D:\dotnet\Bookworm\obj\Debug\net8.0\staticwebassets.pack.json
+D:\dotnet\Bookworm\obj\Debug\net8.0\scopedcss\bundle\Bookworm.styles.css
+D:\dotnet\Bookworm\obj\Debug\net8.0\Bookworm.csproj.Up2Date
+D:\dotnet\Bookworm\obj\Debug\net8.0\Bookworm.dll
+D:\dotnet\Bookworm\obj\Debug\net8.0\refint\Bookworm.dll
+D:\dotnet\Bookworm\obj\Debug\net8.0\Bookworm.pdb
+D:\dotnet\Bookworm\obj\Debug\net8.0\Bookworm.genruntimeconfig.cache
+D:\dotnet\Bookworm\obj\Debug\net8.0\ref\Bookworm.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\appsettings.json
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Bookworm.staticwebassets.endpoints.json
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Bookworm.exe
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Bookworm.deps.json
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Bookworm.runtimeconfig.json
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Bookworm.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Bookworm.pdb
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\obj\Debug\net8.0\Bookworm.csproj.AssemblyReference.cache
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\obj\Debug\net8.0\Bookworm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\obj\Debug\net8.0\Bookworm.AssemblyInfoInputs.cache
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\obj\Debug\net8.0\Bookworm.AssemblyInfo.cs
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\obj\Debug\net8.0\Bookworm.csproj.CoreCompileInputs.cache
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\obj\Debug\net8.0\Bookworm.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\obj\Debug\net8.0\Bookworm.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\obj\Debug\net8.0\scopedcss\bundle\Bookworm.styles.css
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\obj\Debug\net8.0\staticwebassets\msbuild.Bookworm.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\obj\Debug\net8.0\staticwebassets\msbuild.Bookworm.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\obj\Debug\net8.0\staticwebassets\msbuild.build.Bookworm.props
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Bookworm.props
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Bookworm.props
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\obj\Debug\net8.0\Bookworm.csproj.Up2Date
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\obj\Debug\net8.0\Bookworm.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\obj\Debug\net8.0\refint\Bookworm.dll
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\obj\Debug\net8.0\Bookworm.pdb
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\obj\Debug\net8.0\Bookworm.genruntimeconfig.cache
+C:\Users\Rohan\OneDrive\Desktop\Bookworm\obj\Debug\net8.0\ref\Bookworm.dll

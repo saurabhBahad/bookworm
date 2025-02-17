@@ -1,0 +1,773 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\service\\impl\\myshelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:service\\impl\\myshelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\controllers\\myshelfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:controllers\\myshelfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\service\\impl\\productmasterserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:service\\impl\\productmasterserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\service\\impl\\languagemasterserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:service\\impl\\languagemasterserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\service\\ilanguagemasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:service\\ilanguagemasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\exception\\apiexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:exception\\apiexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\service\\impl\\cartserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:service\\impl\\cartserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\service\\impl\\royalitycalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:service\\impl\\royalitycalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\service\\iroyalitycalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:service\\iroyalitycalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\service\\imyshelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:service\\imyshelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\service\\impl\\invoicemasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:service\\impl\\invoicemasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\models\\productmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:models\\productmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\service\\impl\\jwtserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:service\\impl\\jwtserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\models\\genremaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:models\\genremaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\models\\customermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:models\\customermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\dto\\carthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:dto\\carthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\service\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:service\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\controllers\\genremastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:controllers\\genremastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\service\\impl\\customermasterserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:service\\impl\\customermasterserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\controllers\\languagemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:controllers\\languagemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\models\\authormaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:models\\authormaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\dto\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:dto\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\service\\igenremasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:service\\igenremasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\models\\shelfdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:models\\shelfdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\models\\royaltycalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:models\\royaltycalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\models\\rentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:models\\rentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\models\\producttypemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:models\\producttypemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\models\\productbeneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:models\\productbeneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\models\\productarribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:models\\productarribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\models\\myshelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:models\\myshelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\models\\languagemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:models\\languagemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\models\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:models\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\models\\cartmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:models\\cartmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\models\\beneficiarymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:models\\beneficiarymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\models\\attributemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:models\\attributemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\service\\iproductmasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:service\\iproductmasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\controllers\\productmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:controllers\\productmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|c:\\users\\rohan\\onedrive\\desktop\\bookworm\\dto\\productsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FF00C7-D4DF-3FF7-A6C3-978DF161FBAF}|Bookworm.csproj|solutionrelative:dto\\productsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\IInvoiceMasterServiceMaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Service\\IInvoiceMasterServiceMaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyShelfController.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Controllers\\MyShelfController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MyShelfController.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Controllers\\MyShelfController.cs",
+              "RelativeToolTip": "Controllers\\MyShelfController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T09:58:30.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILanguageMasterService.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\ILanguageMasterService.cs",
+              "RelativeDocumentMoniker": "Service\\ILanguageMasterService.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\ILanguageMasterService.cs",
+              "RelativeToolTip": "Service\\ILanguageMasterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T03:39:50.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:19:15.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T03:01:30.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyShelfService.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\Impl\\MyShelfService.cs",
+              "RelativeDocumentMoniker": "Service\\Impl\\MyShelfService.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\Impl\\MyShelfService.cs",
+              "RelativeToolTip": "Service\\Impl\\MyShelfService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:48:43.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LanguageMasterServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\Impl\\LanguageMasterServiceImpl.cs",
+              "RelativeDocumentMoniker": "Service\\Impl\\LanguageMasterServiceImpl.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\Impl\\LanguageMasterServiceImpl.cs",
+              "RelativeToolTip": "Service\\Impl\\LanguageMasterServiceImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T03:39:59.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductMasterServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\Impl\\ProductMasterServiceImpl.cs",
+              "RelativeDocumentMoniker": "Service\\Impl\\ProductMasterServiceImpl.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\Impl\\ProductMasterServiceImpl.cs",
+              "RelativeToolTip": "Service\\Impl\\ProductMasterServiceImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:46:59.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InvoiceMasterService.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\Impl\\InvoiceMasterService.cs",
+              "RelativeDocumentMoniker": "Service\\Impl\\InvoiceMasterService.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\Impl\\InvoiceMasterService.cs",
+              "RelativeToolTip": "Service\\Impl\\InvoiceMasterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:39:03.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\Impl\\CartServiceImpl.cs",
+              "RelativeDocumentMoniker": "Service\\Impl\\CartServiceImpl.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\Impl\\CartServiceImpl.cs",
+              "RelativeToolTip": "Service\\Impl\\CartServiceImpl.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAK8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:04:13.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Exception\\ApiExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Exception\\ApiExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Exception\\ApiExceptionHandler.cs",
+              "RelativeToolTip": "Exception\\ApiExceptionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:34:25.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:47:57.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IMyShelfService.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\IMyShelfService.cs",
+              "RelativeDocumentMoniker": "Service\\IMyShelfService.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\IMyShelfService.cs",
+              "RelativeToolTip": "Service\\IMyShelfService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:47:37.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRoyalityCalculationService.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\IRoyalityCalculationService.cs",
+              "RelativeDocumentMoniker": "Service\\IRoyalityCalculationService.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\IRoyalityCalculationService.cs",
+              "RelativeToolTip": "Service\\IRoyalityCalculationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:58:36.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoyalityCalculationService.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\Impl\\RoyalityCalculationService.cs",
+              "RelativeDocumentMoniker": "Service\\Impl\\RoyalityCalculationService.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\Impl\\RoyalityCalculationService.cs",
+              "RelativeToolTip": "Service\\Impl\\RoyalityCalculationService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwDkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:00:05.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IInvoiceMasterServiceMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\IInvoiceMasterServiceMaster.cs",
+              "RelativeDocumentMoniker": "Service\\IInvoiceMasterServiceMaster.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\IInvoiceMasterServiceMaster.cs",
+              "RelativeToolTip": "Service\\IInvoiceMasterServiceMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:38:42.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\ProductMaster.cs",
+              "RelativeDocumentMoniker": "Models\\ProductMaster.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\ProductMaster.cs",
+              "RelativeToolTip": "Models\\ProductMaster.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:04:38.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CartDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\CartDetail.cs",
+              "RelativeDocumentMoniker": "Models\\CartDetail.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\CartDetail.cs",
+              "RelativeToolTip": "Models\\CartDetail.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA/wCQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:05:47.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JwtServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\Impl\\JwtServiceImpl.cs",
+              "RelativeDocumentMoniker": "Service\\Impl\\JwtServiceImpl.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\Impl\\JwtServiceImpl.cs",
+              "RelativeToolTip": "Service\\Impl\\JwtServiceImpl.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvxkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:47:07.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CartHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Dto\\CartHelper.cs",
+              "RelativeDocumentMoniker": "Dto\\CartHelper.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Dto\\CartHelper.cs",
+              "RelativeToolTip": "Dto\\CartHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:48:25.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GenreMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\GenreMaster.cs",
+              "RelativeDocumentMoniker": "Models\\GenreMaster.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\GenreMaster.cs",
+              "RelativeToolTip": "Models\\GenreMaster.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:06:14.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\CustomerMaster.cs",
+              "RelativeDocumentMoniker": "Models\\CustomerMaster.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\CustomerMaster.cs",
+              "RelativeToolTip": "Models\\CustomerMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:06:04.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerMasterServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\Impl\\CustomerMasterServiceImpl.cs",
+              "RelativeDocumentMoniker": "Service\\Impl\\CustomerMasterServiceImpl.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\Impl\\CustomerMasterServiceImpl.cs",
+              "RelativeToolTip": "Service\\Impl\\CustomerMasterServiceImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:39:40.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GenreMasterController.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Controllers\\GenreMasterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GenreMasterController.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Controllers\\GenreMasterController.cs",
+              "RelativeToolTip": "Controllers\\GenreMasterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T03:11:29.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T03:24:36.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\IJwtService.cs",
+              "RelativeDocumentMoniker": "Service\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\IJwtService.cs",
+              "RelativeToolTip": "Service\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:48:49.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Dto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "Dto\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:48:16.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Dto\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "Dto\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Dto\\LoginResponseDto.cs",
+              "RelativeToolTip": "Dto\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:48:19.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Dto\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "Dto\\ErrorResponse.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Dto\\ErrorResponse.cs",
+              "RelativeToolTip": "Dto\\ErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:48:23.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LanguageMasterController.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Controllers\\LanguageMasterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LanguageMasterController.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Controllers\\LanguageMasterController.cs",
+              "RelativeToolTip": "Controllers\\LanguageMasterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:51:51.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthorMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\AuthorMaster.cs",
+              "RelativeDocumentMoniker": "Models\\AuthorMaster.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\AuthorMaster.cs",
+              "RelativeToolTip": "Models\\AuthorMaster.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:05:29.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IGenreMasterService.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\IGenreMasterService.cs",
+              "RelativeDocumentMoniker": "Service\\IGenreMasterService.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\IGenreMasterService.cs",
+              "RelativeToolTip": "Service\\IGenreMasterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:39:30.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ShelfDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\ShelfDetail.cs",
+              "RelativeDocumentMoniker": "Models\\ShelfDetail.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\ShelfDetail.cs",
+              "RelativeToolTip": "Models\\ShelfDetail.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:08:47.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RoyaltyCalculation.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\RoyaltyCalculation.cs",
+              "RelativeDocumentMoniker": "Models\\RoyaltyCalculation.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\RoyaltyCalculation.cs",
+              "RelativeToolTip": "Models\\RoyaltyCalculation.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA/wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:08:40.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RentDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\RentDetail.cs",
+              "RelativeDocumentMoniker": "Models\\RentDetail.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\RentDetail.cs",
+              "RelativeToolTip": "Models\\RentDetail.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowCsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:08:30.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductTypeMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\ProductTypeMaster.cs",
+              "RelativeDocumentMoniker": "Models\\ProductTypeMaster.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\ProductTypeMaster.cs",
+              "RelativeToolTip": "Models\\ProductTypeMaster.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:07:55.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductBeneficiary.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\ProductBeneficiary.cs",
+              "RelativeDocumentMoniker": "Models\\ProductBeneficiary.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\ProductBeneficiary.cs",
+              "RelativeToolTip": "Models\\ProductBeneficiary.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:06:45.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductArribute.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\ProductArribute.cs",
+              "RelativeDocumentMoniker": "Models\\ProductArribute.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\ProductArribute.cs",
+              "RelativeToolTip": "Models\\ProductArribute.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:06:40.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MyShelf.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\MyShelf.cs",
+              "RelativeDocumentMoniker": "Models\\MyShelf.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\MyShelf.cs",
+              "RelativeToolTip": "Models\\MyShelf.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:06:35.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LanguageMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\LanguageMaster.cs",
+              "RelativeDocumentMoniker": "Models\\LanguageMaster.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\LanguageMaster.cs",
+              "RelativeToolTip": "Models\\LanguageMaster.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:06:31.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "InvoiceDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\InvoiceDetail.cs",
+              "RelativeDocumentMoniker": "Models\\InvoiceDetail.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\InvoiceDetail.cs",
+              "RelativeToolTip": "Models\\InvoiceDetail.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:06:25.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "Models\\Invoice.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\Invoice.cs",
+              "RelativeToolTip": "Models\\Invoice.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:06:19.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CartMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\CartMaster.cs",
+              "RelativeDocumentMoniker": "Models\\CartMaster.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\CartMaster.cs",
+              "RelativeToolTip": "Models\\CartMaster.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:05:56.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AttributeMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\AttributeMaster.cs",
+              "RelativeDocumentMoniker": "Models\\AttributeMaster.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\AttributeMaster.cs",
+              "RelativeToolTip": "Models\\AttributeMaster.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:05:17.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ProductMasterController.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Controllers\\ProductMasterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductMasterController.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Controllers\\ProductMasterController.cs",
+              "RelativeToolTip": "Controllers\\ProductMasterController.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAswJ0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:49:02.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BeneficiaryMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\BeneficiaryMaster.cs",
+              "RelativeDocumentMoniker": "Models\\BeneficiaryMaster.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Models\\BeneficiaryMaster.cs",
+              "RelativeToolTip": "Models\\BeneficiaryMaster.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:23:34.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ProductSearch.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Dto\\ProductSearch.cs",
+              "RelativeDocumentMoniker": "Dto\\ProductSearch.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Dto\\ProductSearch.cs",
+              "RelativeToolTip": "Dto\\ProductSearch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:45:42.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IProductMasterService.cs",
+              "DocumentMoniker": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\IProductMasterService.cs",
+              "RelativeDocumentMoniker": "Service\\IProductMasterService.cs",
+              "ToolTip": "C:\\Users\\Rohan\\OneDrive\\Desktop\\Bookworm\\Service\\IProductMasterService.cs",
+              "RelativeToolTip": "Service\\IProductMasterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:43:18.18Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
