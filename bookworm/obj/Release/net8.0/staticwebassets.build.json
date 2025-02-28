@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ntDLmIglZABKZGFMGVbx5gfdM/H/NM7gvm34UkDB/w8=",
+  "Source": "Bookworm",
+  "BasePath": "_content/Bookworm",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
